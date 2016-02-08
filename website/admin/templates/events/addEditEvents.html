@@ -1,0 +1,49 @@
+<link href="/admin/includes/admin_styles.css" rel="stylesheet" type="text/css"> 
+<table width="50%" border="0" cellspacing="0" cellpadding="4">
+  <tr> 
+    <td width="30%">&nbsp;</td>
+    <td width="62%">&nbsp;</td>
+    <td width="8%">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td><div align="right" class="txtSmall">Title:</div></td>
+    <td><input name="title" type="text" id="title" size="50" class="frmSmall" value="{{TITLE}}"></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td valign="top" class="txtSmall"><div align="right">Description:</div></td>
+    <td><textarea name="des" class="frmSmall" id="des" rows="10" cols="50">{{DES}}</textarea></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td valign="top" class="txtSmall"><div align="right">Location:</div></td>
+    <td><input name="location" class="frmSmall" id="location" type="text" size="50" value="{{LOC}}"></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td valign="top" class="txtSmall"><div align="right">Start Date:</div></td>
+    <td><input name="sDate" class="frmSmall" id="sDate" type="text" size="14" value="{{SDATE}}"></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td valign="top" class="txtSmall"><div align="right">End Date:</div></td>
+    <td><input name="eDate" class="frmSmall" id="eDate" type="text" size="14" value="{{EDATE}}"></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td valign="top" class="txtSmall"><div align="right">Start Time:</div></td>
+    <td><input name="sTime" class="frmSmall" id="sTime" type="text" size="14" value="{{STIME}}"></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td valign="top" class="txtSmall"><div align="right">End Time:</div></td>
+    <td><input name="eTime" class="frmSmall" id="eTime" type="text" size="14" value="{{ETIME}}"></td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+
+<p> 
+  <input name="button" type="submit" id="button" value="{{BUTTONVALUE}}" class="miscFormButtons">
+  <input type="hidden" name="a" value="addEditEvents_finish">
+  <input type="hidden" name="eid" value="{{EID}}">
+</p>

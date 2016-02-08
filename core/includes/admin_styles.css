@@ -1,0 +1,17 @@
+.txtMedium {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #000000}
+.txtMediumBold { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #000000 ; font-weight: bold}
+.txtLarge {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 18px; color: #000000}
+.txtLargeBold { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 18px; color: #000000 ; font-weight: bold}
+.txtSmall { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000000 }
+.txtSmallBold { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000000 ; font-weight: bold}
+.txtSmallWhite { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #FFFFFF }
+.txtSmallBoldWhite { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #FFFFFF ; font-weight: bold}
+.txtSmallRed { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #990000}
+.txtSmallGray { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #666666}
+.frmSmall {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000000}
+.miscFormButtons {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; color: #000000; background-color: #FFCC00}
+a {  color: #000000}
+a:hover {  color: #FFFFFF; background-color: #999999}
+.txtLargeBoldRed { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 18px; color: #CC0000; font-weight: bold }
+.txtLargeBoldGreen { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 18px; color: #006600; font-weight: bold }
+.txtLargeBoldBlue { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 18px; color: #000066; font-weight: bold }

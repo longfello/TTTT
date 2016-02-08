@@ -1,0 +1,10 @@
+
+<SCRIPT LANGUAGE="VBScript" RUNAT="Server">
+sub session_onStart
+	session.timeout = 45
+end sub
+
+sub application_onStart
+	Application("ConnectionString")  = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=c:\TutorialDatabase\Tutorial.mdb;User Id=;Password=;"
+end sub
+</SCRIPT>

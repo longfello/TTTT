@@ -1,0 +1,34 @@
+<link href="/admin/includes/admin_styles.css" rel="stylesheet" type="text/css"> 
+<table width="50%" border="0" cellspacing="0" cellpadding="4">
+  <tr> 
+    <td width="30%">&nbsp;</td>
+    <td width="62%">&nbsp;</td>
+    <td width="8%">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td><div align="right" class="txtSmall">Title:</div></td>
+    <td><input name="title" type="text" id="title" size="50" class="frmSmall" value="{{TITLE}}"></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td valign="top" class="txtSmall"><div align="right">Description:</div></td>
+    <td><textarea name="des" class="frmSmall" id="des" rows="10" cols="50">{{DES}}</textarea></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td valign="top" class="txtSmall"><div align="right">Email:</div></td>
+    <td><input name="email" type="text" id="email" size="30" class="frmSmall" value="{{EMAIL}}"></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td valign="top" class="txtSmall"><div align="right">Link:</div></td>
+    <td><input name="link" type="text" id="link" size="30" class="frmSmall" value="{{LINK}}"></td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+
+<p> 
+  <input name="button" type="submit" id="button" value="{{BUTTONVALUE}}" class="miscFormButtons">
+  <input type="hidden" name="a" value="addEditWhatsnew_finish">
+  <input type="hidden" name="nid" value="{{NID}}">
+</p>
