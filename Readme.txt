@@ -1,4 +1,4 @@
-Well, Here it is.
+Well, Here it is. Привет! И мы не лыком шиты.
 
 Steps to follow
 1) Copy the core and TutorialDatabase folders to you C:
