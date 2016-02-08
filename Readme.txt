@@ -1,4 +1,4 @@
-Well, Here it is. Привет! И мы не лыком шиты.
+п»їWell, Here it is. РџСЂРёРІРµС‚! Р РјС‹ РЅРµ Р»С‹РєРѕРј С€РёС‚С‹.
 
 Steps to follow
 1) Copy the core and TutorialDatabase folders to you C:
@@ -24,7 +24,7 @@ code-behind design strategy.
 If you have any concerns or questions about this sample site,
 or if you would like additional functionality included,
 feel free to contact me at sjensen1207@hotmail.com
-
+ 
 I would like to acknowledge Valerio Santinelli for allowing
 the use of his aspTemplate class.
 
