@@ -1,4 +1,5 @@
 ﻿Well, Here it is. Привет! И мы не лыком шиты.
+﻿А здесь я попробовал делать правки прямо из редактора на GitHUB
 
 Steps to follow
 1) Copy the core and TutorialDatabase folders to you C:
